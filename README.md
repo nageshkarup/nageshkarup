@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nageshwaran Karuppaiah</h1>
 <h3 align="center">A passionate Software Development Engineer in Test (SDET) from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Core Java, Selenium**
+- 💬 Ask me about **Java, Python, Selenium**
 
 - 📫 How to reach me **nagesortan@gmail.com**
 
